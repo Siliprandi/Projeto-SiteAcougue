@@ -1,0 +1,30 @@
+.card__imagem {
+ 
+    height: 100px;
+    margin: 1rem;
+    
+}
+
+
+.card__imagem--beef {
+    background: url(../../img/carnes-card/BEEF.png) no-repeat center / cover;
+  
+    
+}
+
+.card__imagem--pernil {
+    background: url(../../img/carnes-card/lamb.png) no-repeat center / cover;
+    
+}
+
+.card__imagem--salame {
+    background: url(../../img/carnes-card/salami.png) no-repeat center / cover;
+    
+}
+
+.card__imagem--presunto {
+    background: url(../../img/carnes-card/cured.png) no-repeat center / cover;
+    
+}
+
+

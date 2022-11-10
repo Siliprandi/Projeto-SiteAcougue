@@ -1,0 +1,6 @@
+
+.sobre__texto {
+    color: var(--texto);
+    line-height: 1.5rem;
+    text-align: justify;
+}

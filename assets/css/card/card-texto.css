@@ -1,0 +1,11 @@
+.card__texto {
+    position: relative;
+    top: 5.5rem;
+    left: 25%;
+    color: #fff;
+    font-size: 0.938rem;
+    font-weight: bold;
+    transform: rotate(-9deg);     
+   
+}
+

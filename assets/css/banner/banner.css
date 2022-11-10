@@ -1,0 +1,7 @@
+.banner .container{
+    align-items: center;
+    background:var(--background-secao);
+    display: flex;
+    justify-content: space-around;
+    padding: 2.5rem;
+}

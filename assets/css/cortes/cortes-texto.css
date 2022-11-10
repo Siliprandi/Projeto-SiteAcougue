@@ -1,0 +1,6 @@
+
+.cortes__texto {
+    text-align:justify;
+    padding: 0.4rem 0;
+    color: var(--bordo);
+}

@@ -1,0 +1,13 @@
+
+.produtos__botoes {
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
+
+.produto__botao {
+    width: 18%;
+    height: 60px;
+    border-radius: 12px;
+}
+

@@ -1,0 +1,7 @@
+.banner__titulo {
+    color: var(--titulo);
+    line-height: 3.5rem;
+    font-size: 2.75rem;
+    text-transform: capitalize;
+   
+}

@@ -1,0 +1,13 @@
+.logo {
+    background: url(../img/bg/bg-footer.png);
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+
+}
+
+.logo__imagem {
+    width: 15%;
+   
+
+}

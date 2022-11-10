@@ -1,0 +1,46 @@
+
+:root {
+
+    --background-secao:#fff5e9;
+    --background: #f0e6da;
+    --background-fundo: #ecdfcf;
+    --bordo: #691c26;
+    --titulo: #474747;
+    --subtitulo: #ab6e6b;
+    --texto: #817f7b;
+    --botao: #e3aa99;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+body{
+    background: var(--background-fundo);
+    font-family:'Open Sans', sans-serif;;
+}
+
+.container {
+    margin: 0 3rem;
+    background: var(--background-secao);
+}
+
+
+.botao {
+    background: var(--botao);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    height: 3rem;
+    padding: 0.625rem;
+    width: 25%;
+    transition: all 0.5s ease-in-out;
+}
+
+.botao:hover {
+    background: var(--bordo);
+    cursor: pointer;
+}

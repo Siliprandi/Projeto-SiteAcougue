@@ -1,0 +1,13 @@
+
+
+.servicos__card {
+    align-items: center;
+    background: url(../../img/bg/11-copy3.png);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 26rem;
+    margin: 3rem;
+  
+}
+

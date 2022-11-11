@@ -1,5 +1,5 @@
 .logo {
-    background: url(../img/bg/bg-footer.png);
+    background: url(../img/bg/bg.png) no-repeat center / cover;
     display: flex;
     justify-content: center;
     padding: 2rem;
@@ -7,7 +7,7 @@
 }
 
 .logo__imagem {
-    width: 15%;
+    width: 18%;
    
 
 }

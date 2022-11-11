@@ -3,3 +3,25 @@
     text-align: center;
     padding: 3rem;
 }
+
+
+.produtos__subtitulo{
+    color: var(--subtitulo);
+    font-size: 1.25rem;
+}
+
+.produtos__titulo {
+    color: var(--titulo);
+    font-size: 2.75rem;
+    line-height: 3.25rem;
+    text-transform:capitalize;
+}
+
+
+.produtos__texto {
+    color: var(--texto);
+    line-height: 1.5rem;
+    padding-top: 0.625rem;
+  
+}
+

@@ -1,0 +1,42 @@
+.servicos__card--conteudo{
+    height: 220px;
+    text-align: center;
+    width: 80%;
+}
+
+
+.servicos__card--titulo {
+    color: var(--titulo);
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    text-transform:capitalize;
+}
+
+.servicos__card--texto {
+    color: var(--texto);
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-bottom: 1.25rem;
+    padding-top: 0.625rem;
+  
+}
+   
+
+.servicos__card--link {
+    color: var(--bordo);
+    font-size: 0.90rem;
+    text-decoration: none;
+  
+   
+}
+
+.servicos__card--link:hover {
+    color: var(--botao);
+    transition: all 0.4s ease-in-out;
+}
+
+.fa-solid {
+    margin-left: 5px;
+}
+
+

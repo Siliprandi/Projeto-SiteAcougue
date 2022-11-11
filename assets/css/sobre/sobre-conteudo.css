@@ -2,3 +2,24 @@
 .sobre__conteudo {
     padding-right: 4rem;
 }
+
+
+.sobre__subtitulo {
+    color: var(--subtitulo);
+    font-size: 1.25rem;
+}
+
+
+.sobre__titulo {
+    color: var(--titulo);
+    font-size: 2.75rem;
+    line-height: 3.25rem;
+    text-transform: capitalize;
+}
+
+
+.sobre__texto {
+    color: var(--texto);
+    line-height: 1.5rem;
+    text-align: justify;
+}

@@ -9,6 +9,7 @@
     --subtitulo: #ab6e6b;
     --texto: #817f7b;
     --botao: #e3aa99;
+    --rodape: #f0e6da;
 
 }
 
@@ -47,3 +48,4 @@ body{
     background: var(--bordo);
     cursor: pointer;
 }
+

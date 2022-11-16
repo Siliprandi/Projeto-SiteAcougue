@@ -1,0 +1,43 @@
+.newsletter {
+    align-items: center;
+    background: url(../img/bg/11-copy3.png) repeat center / cover;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 3rem;
+}
+
+.newsletter__titulo {
+    color: var(--titulo);
+    font-size: 2rem;
+    padding-top: 2rem;
+}
+
+.newsletter__imputs {
+    display: flex;
+    padding: 5rem 0;
+}
+
+.input-padrao {
+    width: 43rem;
+    height: 3rem;
+    border: none;
+    padding:1rem;
+    border-radius: 10px 0 0 10px;
+
+}
+
+.enviar {
+    width: 20%;
+    border: none;
+    background: var(--bordo);
+    border-radius: 0 10px 10px 0;
+    color: #fff;
+    transition: all 0.5s ease-in-out;
+}
+
+.enviar:hover {
+    cursor: pointer;
+    background: var(--botao);
+  
+
+}

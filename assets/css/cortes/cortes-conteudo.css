@@ -2,7 +2,7 @@
 .cortes__conteudo {
     background: url(../../img/bg/11-copy3.png) no-repeat center / cover;
     border-radius: 10px;
-    padding: 1rem;
+    padding: 2rem;
     width: 45%;
     
 }
@@ -26,6 +26,6 @@
 
 .cortes__texto {
     text-align:justify;
-    padding:1rem;
+    padding: 1rem 0;
     color: var(--bordo);
 }

@@ -1,0 +1,11 @@
+
+.parceiros {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;   
+    
+}
+
+.parceiros__logo--imagem {
+    width: 19%;
+}

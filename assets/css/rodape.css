@@ -1,0 +1,8 @@
+
+.rodape {
+    background: url(../img/bg/bg-footer.png) no-repeat right / cover;
+    background-color: var(--rodape);
+    padding: 3rem;
+
+
+}

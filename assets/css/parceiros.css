@@ -9,3 +9,15 @@
 .parceiros__logo--imagem {
     width: 19%;
 }
+
+
+@media screen and (max-width: 768px) {
+    
+    .parceiros__logo--imagem {
+        width: 90%;
+    }
+    
+   
+ }
+ 
+ 

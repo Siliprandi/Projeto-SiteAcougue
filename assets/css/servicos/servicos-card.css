@@ -11,3 +11,12 @@
   
 }
 
+
+@media screen and (max-width: 768px) {
+    
+   .servicos__card {
+    width: 90%;
+   }
+}
+
+

@@ -42,6 +42,7 @@ body{
     padding: 0.625rem;
     width: 25%;
     transition: all 0.5s ease-in-out;
+   
 }
 
 .botao:hover {
@@ -49,3 +50,19 @@ body{
     cursor: pointer;
 }
 
+
+@media screen and (max-width: 768px) {
+    
+    .container {
+        margin: 0;
+        width: 100vw;
+        flex-direction: column;
+    }
+
+    .botao {
+        width: 80%;
+        height: 60px;
+       
+        
+    }
+}

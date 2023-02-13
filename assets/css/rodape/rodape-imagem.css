@@ -2,3 +2,12 @@
 .rodape__imagem {
     width: 10%;
 }
+
+
+@media screen and (max-width: 768px) {
+    
+    .rodape__imagem {
+        width: 30%;
+        padding: 2rem 0;
+    }
+}

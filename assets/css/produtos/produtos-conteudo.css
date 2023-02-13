@@ -25,3 +25,21 @@
   
 }
 
+@media screen and (max-width: 768px) {
+   
+    .produtos__conteudo {
+        padding: 1.75rem;
+    }
+
+    .produtos__titulo {
+        font-size: 1.75rem;
+    }
+
+    .produtos__texto {
+        padding-bottom: 1rem;
+    }
+
+
+    
+}
+

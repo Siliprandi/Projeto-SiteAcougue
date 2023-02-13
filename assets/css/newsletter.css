@@ -41,3 +41,38 @@
   
 
 }
+
+
+@media screen and (max-width: 768px) {
+    
+    
+
+    .newsletter {
+        width: 100%;
+        padding: 1rem;
+      
+    }
+
+
+    .newsletter__titulo {
+        font-size: 1.75rem;
+        text-align: center;
+
+    }
+    
+    .newsletter__imputs {
+        width: 100%;
+        
+
+    }
+    
+    
+    .enviar {
+        width: 50%;
+        padding: 10px;
+       
+    }
+    
+   
+}
+ 

@@ -11,3 +11,17 @@
     border-radius: 12px;
 }
 
+@media screen and (max-width: 768px) {
+   
+   .produtos__botoes{
+    padding: 0;
+    flex-direction: column;
+   
+   }
+
+   .produto__botao {
+    width: 100%;
+   }
+
+    
+}

@@ -4,3 +4,18 @@
    padding-right: 6rem;
    
 }
+
+
+@media screen and (max-width: 768px) {
+    
+   .banner__imagem{
+      width: 100%;
+      padding: 2rem 0; 
+      padding-right: 0;
+
+      
+       
+   }
+
+  
+}

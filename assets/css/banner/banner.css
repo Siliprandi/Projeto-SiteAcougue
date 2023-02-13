@@ -5,3 +5,18 @@
     justify-content: space-around;
     padding: 2.5rem;
 }
+
+
+
+
+@media screen and (max-width: 768px) {
+    
+    .banner .container {
+      
+       padding: 1rem;
+     
+        
+    }
+ 
+   
+ }

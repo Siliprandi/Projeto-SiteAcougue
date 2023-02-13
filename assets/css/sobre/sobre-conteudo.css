@@ -23,3 +23,25 @@
     line-height: 1.5rem;
     text-align: justify;
 }
+
+@media screen and (max-width: 768px) {
+    
+    .sobre__conteudo {
+        text-align: center;
+        padding-right: 0;
+        padding: 1.75rem;
+    }
+
+    .sobre__titulo {
+        font-size: 1.75rem;
+        line-height: 2.5rem;
+        padding-bottom: 1rem;
+
+    }
+
+    .sobre__texto {
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+  }
+  

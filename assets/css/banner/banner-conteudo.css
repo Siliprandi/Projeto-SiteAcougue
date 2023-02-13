@@ -1,3 +1,18 @@
 .banner__conteudo {
     padding-right: 1rem;
 }
+
+
+
+
+@media screen and (max-width: 768px) {
+    
+    .banner__conteudo{
+       padding-right: 0;
+       text-align: center;
+       
+        
+    }
+ 
+   
+ }

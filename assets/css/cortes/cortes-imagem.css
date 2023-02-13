@@ -4,3 +4,11 @@
     padding: 1.25rem;
    
 }
+
+@media screen and (max-width: 768px) {
+    
+    .cortes__imagem {
+        width: 100%;
+        padding: 4rem 0.625rem;
+    }
+}

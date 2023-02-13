@@ -3,3 +3,11 @@
     gap: 6rem;
    
 }
+
+@media screen and (max-width: 768px) {
+    
+    .menu__lista {
+        gap: 1rem;
+     
+    }
+}

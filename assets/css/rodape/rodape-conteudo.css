@@ -16,3 +16,14 @@
    color: var(--titulo);
     margin-bottom: 1rem;
 }
+
+
+
+@media screen and (max-width: 768px) {
+    
+    .rodape__conteudo{
+      flex-direction: column;
+      text-align: center;
+        
+    }
+}

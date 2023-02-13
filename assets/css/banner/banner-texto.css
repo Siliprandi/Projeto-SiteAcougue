@@ -3,3 +3,14 @@
     line-height: 1.5rem;
     text-align: justify;
 }
+
+
+
+@media screen and (max-width: 768px) {
+    
+    .banner__texto {
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+   
+ }
